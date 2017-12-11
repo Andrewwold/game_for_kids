@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
   def stuff
   end
+
+  def timer
+  end
 end
